@@ -1,0 +1,4 @@
+rootProject.name = 'jlooper'
+include 'jlooper-example'
+include 'jlooper-core'
+
